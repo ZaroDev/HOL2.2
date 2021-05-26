@@ -1,0 +1,3 @@
+﻿  shared_inc.c
+  C:\Users\victorfz\source\repos\HOL\HOL\shared_inc.c(20) : warning C4716: 'Compute': debe devolver un valor
+  HOL.vcxproj -> C:\Users\victorfz\source\repos\HOL\Debug\HOL.exe
